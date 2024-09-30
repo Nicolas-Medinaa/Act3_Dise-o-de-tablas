@@ -1,4 +1,4 @@
-# Act3_Dise-o-de-tablas
+# Act3_tablas
 diseño de tablas
 - ## Tablas
 - <img src="blob:chrome-untrusted://media-app/b94f2e7c-5da2-4b8b-ba1d-9326591cc274" alt=""/>![image](https://github.com/user-attachments/assets/e552cd21-f4bc-4361-84d6-ce18660243b4)
